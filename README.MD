@@ -5,6 +5,10 @@ Certainly! Below is a `README.md` template that documents the API of your Flask 
 
 This document provides detailed information about the API endpoints of the Flask application designed for OCR (Optical Character Recognition) using Tesseract.
 
+
+Video Instruction:
+[![Watch the video](https://img.youtube.com/vi/PaDWivzAMAM/maxresdefault.jpg)](https://youtu.be/PaDWivzAMAM)
+
 ## API Endpoints
 
 ### 1. Get Supported Languages

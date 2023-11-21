@@ -1,0 +1,512 @@
+[
+  {
+    "language_code": "afr",
+    "language_name": "Afrikaans",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/afr.traineddata"
+  },
+  {
+    "language_code": "amh",
+    "language_name": "Amharic",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/amh.traineddata"
+  },
+  {
+    "language_code": "ara",
+    "language_name": "Arabic",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/ara.traineddata"
+  },
+  {
+    "language_code": "asm",
+    "language_name": "Assamese",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/asm.traineddata"
+  },
+  {
+    "language_code": "aze",
+    "language_name": "Azerbaijani",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/aze.traineddata"
+  },
+  {
+    "language_code": "aze_cyrl",
+    "language_name": "Azerbaijani - Cyrillic",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/aze_cyrl.traineddata"
+  },
+  {
+    "language_code": "bel",
+    "language_name": "Belarusian",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/bel.traineddata"
+  },
+  {
+    "language_code": "ben",
+    "language_name": "Bengali",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/ben.traineddata"
+  },
+  {
+    "language_code": "bod",
+    "language_name": "Tibetan",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/bod.traineddata"
+  },
+  {
+    "language_code": "bos",
+    "language_name": "Bosnian",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/bos.traineddata"
+  },
+  {
+    "language_code": "bul",
+    "language_name": "Bulgarian",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/bul.traineddata"
+  },
+  {
+    "language_code": "cat",
+    "language_name": "Catalan; Valencian",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/cat.traineddata"
+  },
+  {
+    "language_code": "ceb",
+    "language_name": "Cebuano",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/ceb.traineddata"
+  },
+  {
+    "language_code": "ces",
+    "language_name": "Czech",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/ces.traineddata"
+  },
+  {
+    "language_code": "chi_sim",
+    "language_name": "Chinese - Simplified",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/chi_sim.traineddata"
+  },
+  {
+    "language_code": "chi_tra",
+    "language_name": "Chinese - Traditional",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/chi_tra.traineddata"
+  },
+  {
+    "language_code": "chr",
+    "language_name": "Cherokee",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/chr.traineddata"
+  },
+  {
+    "language_code": "cym",
+    "language_name": "Welsh",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/cym.traineddata"
+  },
+  {
+    "language_code": "dan",
+    "language_name": "Danish",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/dan.traineddata"
+  },
+  {
+    "language_code": "deu",
+    "language_name": "German",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/deu.traineddata"
+  },
+  {
+    "language_code": "dzo",
+    "language_name": "Dzongkha",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/dzo.traineddata"
+  },
+  {
+    "language_code": "ell",
+    "language_name": "Greek, Modern (1453-)",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/ell.traineddata"
+  },
+  {
+    "language_code": "eng",
+    "language_name": "English",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/eng.traineddata"
+  },
+  {
+    "language_code": "enm",
+    "language_name": "English, Middle (1100-1500)",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/enm.traineddata"
+  },
+  {
+    "language_code": "epo",
+    "language_name": "Esperanto",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/epo.traineddata"
+  },
+  {
+    "language_code": "est",
+    "language_name": "Estonian",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/est.traineddata"
+  },
+  {
+    "language_code": "eus",
+    "language_name": "Basque",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/eus.traineddata"
+  },
+  {
+    "language_code": "fas",
+    "language_name": "Persian",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/fas.traineddata"
+  },
+  {
+    "language_code": "fin",
+    "language_name": "Finnish",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/fin.traineddata"
+  },
+  {
+    "language_code": "fra",
+    "language_name": "French",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/fra.traineddata"
+  },
+  {
+    "language_code": "frk",
+    "language_name": "German Fraktur",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/frk.traineddata"
+  },
+  {
+    "language_code": "frm",
+    "language_name": "French, Middle (ca. 1400-1600)",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/frm.traineddata"
+  },
+  {
+    "language_code": "gle",
+    "language_name": "Irish",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/gle.traineddata"
+  },
+  {
+    "language_code": "glg",
+    "language_name": "Galician",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/glg.traineddata"
+  },
+  {
+    "language_code": "grc",
+    "language_name": "Greek, Ancient (-1453)",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/grc.traineddata"
+  },
+  {
+    "language_code": "guj",
+    "language_name": "Gujarati",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/guj.traineddata"
+  },
+  {
+    "language_code": "hat",
+    "language_name": "Haitian; Haitian Creole",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/hat.traineddata"
+  },
+  {
+    "language_code": "heb",
+    "language_name": "Hebrew",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/heb.traineddata"
+  },
+  {
+    "language_code": "hin",
+    "language_name": "Hindi",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/hin.traineddata"
+  },
+  {
+    "language_code": "hrv",
+    "language_name": "Croatian",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/hrv.traineddata"
+  },
+  {
+    "language_code": "hun",
+    "language_name": "Hungarian",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/hun.traineddata"
+  },
+  {
+    "language_code": "iku",
+    "language_name": "Inuktitut",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/iku.traineddata"
+  },
+  {
+    "language_code": "ind",
+    "language_name": "Indonesian",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/ind.traineddata"
+  },
+  {
+    "language_code": "isl",
+    "language_name": "Icelandic",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/isl.traineddata"
+  },
+  {
+    "language_code": "ita",
+    "language_name": "Italian",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/ita.traineddata"
+  },
+  {
+    "language_code": "ita_old",
+    "language_name": "Italian - Old",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/ita_old.traineddata"
+  },
+  {
+    "language_code": "jav",
+    "language_name": "Javanese",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/jav.traineddata"
+  },
+  {
+    "language_code": "jpn",
+    "language_name": "Japanese",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/jpn.traineddata"
+  },
+  {
+    "language_code": "kan",
+    "language_name": "Kannada",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/kan.traineddata"
+  },
+  {
+    "language_code": "kat",
+    "language_name": "Georgian",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/kat.traineddata"
+  },
+  {
+    "language_code": "kat_old",
+    "language_name": "Georgian - Old",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/kat_old.traineddata"
+  },
+  {
+    "language_code": "kaz",
+    "language_name": "Kazakh",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/kaz.traineddata"
+  },
+  {
+    "language_code": "khm",
+    "language_name": "Central Khmer",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/khm.traineddata"
+  },
+  {
+    "language_code": "kir",
+    "language_name": "Kirghiz; Kyrgyz",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/kir.traineddata"
+  },
+  {
+    "language_code": "kor",
+    "language_name": "Korean",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/kor.traineddata"
+  },
+  {
+    "language_code": "kur",
+    "language_name": "Kurdish",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/kur.traineddata"
+  },
+  {
+    "language_code": "lao",
+    "language_name": "Lao",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/lao.traineddata"
+  },
+  {
+    "language_code": "lat",
+    "language_name": "Latin",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/lat.traineddata"
+  },
+  {
+    "language_code": "lav",
+    "language_name": "Latvian",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/lav.traineddata"
+  },
+  {
+    "language_code": "lit",
+    "language_name": "Lithuanian",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/lit.traineddata"
+  },
+  {
+    "language_code": "mal",
+    "language_name": "Malayalam",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/mal.traineddata"
+  },
+  {
+    "language_code": "mar",
+    "language_name": "Marathi",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/mar.traineddata"
+  },
+  {
+    "language_code": "mkd",
+    "language_name": "Macedonian",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/mkd.traineddata"
+  },
+  {
+    "language_code": "mlt",
+    "language_name": "Maltese",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/mlt.traineddata"
+  },
+  {
+    "language_code": "msa",
+    "language_name": "Malay",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/msa.traineddata"
+  },
+  {
+    "language_code": "mya",
+    "language_name": "Burmese",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/mya.traineddata"
+  },
+  {
+    "language_code": "nep",
+    "language_name": "Nepali",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/nep.traineddata"
+  },
+  {
+    "language_code": "nld",
+    "language_name": "Dutch; Flemish",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/nld.traineddata"
+  },
+  {
+    "language_code": "nor",
+    "language_name": "Norwegian",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/nor.traineddata"
+  },
+  {
+    "language_code": "ori",
+    "language_name": "Oriya",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/ori.traineddata"
+  },
+  {
+    "language_code": "pan",
+    "language_name": "Panjabi; Punjabi",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/pan.traineddata"
+  },
+  {
+    "language_code": "pol",
+    "language_name": "Polish",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/pol.traineddata"
+  },
+  {
+    "language_code": "por",
+    "language_name": "Portuguese",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/por.traineddata"
+  },
+  {
+    "language_code": "pus",
+    "language_name": "Pushto; Pashto",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/pus.traineddata"
+  },
+  {
+    "language_code": "ron",
+    "language_name": "Romanian; Moldavian; Moldovan",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/ron.traineddata"
+  },
+  {
+    "language_code": "rus",
+    "language_name": "Russian",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/rus.traineddata"
+  },
+  {
+    "language_code": "san",
+    "language_name": "Sanskrit",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/san.traineddata"
+  },
+  {
+    "language_code": "sin",
+    "language_name": "Sinhala; Sinhalese",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/sin.traineddata"
+  },
+  {
+    "language_code": "slk",
+    "language_name": "Slovak",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/slk.traineddata"
+  },
+  {
+    "language_code": "slv",
+    "language_name": "Slovenian",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/slv.traineddata"
+  },
+  {
+    "language_code": "spa",
+    "language_name": "Spanish; Castilian",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/spa.traineddata"
+  },
+  {
+    "language_code": "spa_old",
+    "language_name": "Spanish; Castilian - Old",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/spa_old.traineddata"
+  },
+  {
+    "language_code": "sqi",
+    "language_name": "Albanian",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/sqi.traineddata"
+  },
+  {
+    "language_code": "srp",
+    "language_name": "Serbian",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/srp.traineddata"
+  },
+  {
+    "language_code": "srp_latn",
+    "language_name": "Serbian - Latin",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/srp_latn.traineddata"
+  },
+  {
+    "language_code": "swa",
+    "language_name": "Swahili",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/swa.traineddata"
+  },
+  {
+    "language_code": "swe",
+    "language_name": "Swedish",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/swe.traineddata"
+  },
+  {
+    "language_code": "syr",
+    "language_name": "Syriac",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/syr.traineddata"
+  },
+  {
+    "language_code": "tam",
+    "language_name": "Tamil",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/tam.traineddata"
+  },
+  {
+    "language_code": "tel",
+    "language_name": "Telugu",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/tel.traineddata"
+  },
+  {
+    "language_code": "tgk",
+    "language_name": "Tajik",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/tgk.traineddata"
+  },
+  {
+    "language_code": "tgl",
+    "language_name": "Tagalog",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/tgl.traineddata"
+  },
+  {
+    "language_code": "tha",
+    "language_name": "Thai",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/tha.traineddata"
+  },
+  {
+    "language_code": "tir",
+    "language_name": "Tigrinya",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/tir.traineddata"
+  },
+  {
+    "language_code": "tur",
+    "language_name": "Turkish",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/tur.traineddata"
+  },
+  {
+    "language_code": "uig",
+    "language_name": "Uighur; Uyghur",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/uig.traineddata"
+  },
+  {
+    "language_code": "ukr",
+    "language_name": "Ukrainian",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/ukr.traineddata"
+  },
+  {
+    "language_code": "urd",
+    "language_name": "Urdu",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/urd.traineddata"
+  },
+  {
+    "language_code": "uzb",
+    "language_name": "Uzbek",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/uzb.traineddata"
+  },
+  {
+    "language_code": "uzb_cyrl",
+    "language_name": "Uzbek - Cyrillic",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/uzb_cyrl.traineddata"
+  },
+  {
+    "language_code": "vie",
+    "language_name": "Vietnamese",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/vie.traineddata"
+  },
+  {
+    "language_code": "yid",
+    "language_name": "Yiddish",
+    "traineddata_link": "https://github.com/tesseract-ocr/tessdata/raw/4.00/yid.traineddata"
+  }
+]

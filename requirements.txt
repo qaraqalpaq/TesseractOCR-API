@@ -1,0 +1,6 @@
+Flask
+Celery
+redis
+pytesseract
+Pillow  # If needed for image processing
+pdf2image  # Add this if you're processing PDF files

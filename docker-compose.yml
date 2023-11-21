@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  web:
+    build:
+      context: .
+    ports:
+      - "3002:5000"
+    volumes:
+      - ./uploads:/mnt/data/uploads
+      - ./outputs:/mnt/data/outputs
+      - ./models:/usr/share/tesseract-ocr/4.00/tessdata
+    depends_on:
+      - redis
+
+  worker:
+    build: .
+    command: celery -A app.celery worker --loglevel=info
+    volumes:
+      - ./uploads:/mnt/data/uploads
+      - ./outputs:/mnt/data/outputs
+      - ./models:/usr/share/tesseract-ocr/4.00/tessdata
+    depends_on:
+      - redis
+
+  redis:
+    image: redis:alpine

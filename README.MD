@@ -1,13 +1,14 @@
 Certainly! Below is a `README.md` template that documents the API of your Flask application. This documentation includes descriptions of the API endpoints, their expected inputs, and the outputs.
 
+Video Instruction:
+[![Watch the video](https://img.youtube.com/vi/PaDWivzAMAM/maxresdefault.jpg)](https://youtu.be/PaDWivzAMAM)
+
 ```markdown
 # Tesseract OCR Flask API Documentation
 
 This document provides detailed information about the API endpoints of the Flask application designed for OCR (Optical Character Recognition) using Tesseract.
 
 
-Video Instruction:
-[![Watch the video](https://img.youtube.com/vi/PaDWivzAMAM/maxresdefault.jpg)](https://youtu.be/PaDWivzAMAM)
 
 ## API Endpoints
 

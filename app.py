@@ -32,8 +32,14 @@ celery.conf.update(app.config)
 @app.route('/languages', methods=['GET'])
 def get_languages():
     try:
-        with open('languages.json', 'r') as file:
+        # Reading the content of app.py to investigate potential issues
+        app_py_path = os.path.join(main_folder_path, 'app.py')
+
+        with open(app_py_path, 'r') as file:
             languages_data = file.read()
+
+        # Displaying the first few lines of the app.py file for initial investigation
+        languages_data[:1000]  # Displaying the first 1000 characters for a brief overview
         return jsonify(json.loads(languages_data)), 200
     except FileNotFoundError:
         return jsonify({"error": "Languages file not found"}), 404

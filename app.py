@@ -82,6 +82,9 @@ def process_ocr(filepath, language, file_uuid):
         else:
             output_text = pytesseract.image_to_string(Image.open(filepath), config=custom_config)
 
+        # Post-processing to fix hyphenation
+        output_text = fix_hyphenation(output_text)
+
         # Save the result to a text file
         output_filename = f"{file_uuid}.txt"
         output_filepath = os.path.join(OUTPUT_FOLDER, output_filename)
@@ -92,6 +95,33 @@ def process_ocr(filepath, language, file_uuid):
     except Exception as e:
         logging.error(f"Error processing file {filepath}: {e}")
         return None
+
+def fix_hyphenation(text):
+    lines = text.split('\n')
+    new_text = []
+    for i in range(len(lines) - 1):
+        line = lines[i].rstrip()
+        next_line = lines[i + 1].lstrip()
+
+        if line.endswith('-'):
+            # Remove hyphen and join with the next line's first word
+            new_text.append(line[:-1] + next_line.split(' ', 1)[0])
+
+            # Update the next line by removing the joined word
+            split_next_line = next_line.split(' ', 1)
+            if len(split_next_line) > 1:
+                lines[i + 1] = split_next_line[1]
+            else:
+                # If there's only one word on the next line, replace it with an empty string
+                lines[i + 1] = ''
+        else:
+            new_text.append(line)
+
+    # Add the last line if it wasn't processed
+    if not lines[-1].startswith(' '):
+        new_text.append(lines[-1])
+
+    return '\n'.join(new_text)
 
 @app.route('/download/<filename>', methods=['GET'])
 def download_file(filename):
